@@ -1,0 +1,5 @@
+D:\Projects\SequencesManager\SequencesManager.Core\bin\Debug\SequencesManager.Core.dll
+D:\Projects\SequencesManager\SequencesManager.Core\bin\Debug\SequencesManager.Core.pdb
+D:\Projects\SequencesManager\SequencesManager.Core\obj\Debug\SequencesManager.Core.csprojResolveAssemblyReference.cache
+D:\Projects\SequencesManager\SequencesManager.Core\obj\Debug\SequencesManager.Core.dll
+D:\Projects\SequencesManager\SequencesManager.Core\obj\Debug\SequencesManager.Core.pdb

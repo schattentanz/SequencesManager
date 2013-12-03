@@ -1,0 +1,17 @@
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Web.dll.config
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Web.dll
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Web.pdb
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Core.dll
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.DataAccess.dll
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.DataAccess.SqlServer.dll
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Services.dll
+D:\Projects\SequencesManager\SequencesManager.Web\bin\Dapper.dll
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Core.pdb
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.DataAccess.SqlServer.pdb
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.DataAccess.pdb
+D:\Projects\SequencesManager\SequencesManager.Web\bin\SequencesManager.Services.pdb
+D:\Projects\SequencesManager\SequencesManager.Web\bin\Dapper.pdb
+D:\Projects\SequencesManager\SequencesManager.Web\bin\Dapper.xml
+D:\Projects\SequencesManager\SequencesManager.Web\obj\Debug\SequencesManager.Web.csprojResolveAssemblyReference.cache
+D:\Projects\SequencesManager\SequencesManager.Web\obj\Debug\SequencesManager.Web.dll
+D:\Projects\SequencesManager\SequencesManager.Web\obj\Debug\SequencesManager.Web.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencesManager.DataAccess", "SequencesManager.DataAccess\SequencesManager.DataAccess.csproj", "{43AD82A4-F9D2-4981-B70B-D14AE2B263F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencesManager.DataAccess.SqlServer", "SequencesManager.DataAccess.SqlServer\SequencesManager.DataAccess.SqlServer.csproj", "{C76BA811-B90E-40E7-A064-4E42D26A673E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencesManager.Services", "SequencesManager.Services\SequencesManager.Services.csproj", "{E40D7D34-A6D0-424F-962A-FA728275AE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencesManager.Core", "SequencesManager.Core\SequencesManager.Core.csproj", "{6205FBB4-6E08-42B2-8580-4C08BAEE584B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencesManager.Core.Tests", "SequencesManager.Core.Tests\SequencesManager.Core.Tests.csproj", "{5C89F20F-D497-4848-BC31-C445A042EFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencesManager.Web", "SequencesManager.Web\SequencesManager.Web.csproj", "{ED3D2E7C-09B8-477A-A893-986E881A4B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AD82A4-F9D2-4981-B70B-D14AE2B263F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AD82A4-F9D2-4981-B70B-D14AE2B263F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AD82A4-F9D2-4981-B70B-D14AE2B263F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AD82A4-F9D2-4981-B70B-D14AE2B263F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76BA811-B90E-40E7-A064-4E42D26A673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76BA811-B90E-40E7-A064-4E42D26A673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76BA811-B90E-40E7-A064-4E42D26A673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76BA811-B90E-40E7-A064-4E42D26A673E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40D7D34-A6D0-424F-962A-FA728275AE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40D7D34-A6D0-424F-962A-FA728275AE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40D7D34-A6D0-424F-962A-FA728275AE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40D7D34-A6D0-424F-962A-FA728275AE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6205FBB4-6E08-42B2-8580-4C08BAEE584B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6205FBB4-6E08-42B2-8580-4C08BAEE584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6205FBB4-6E08-42B2-8580-4C08BAEE584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6205FBB4-6E08-42B2-8580-4C08BAEE584B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C89F20F-D497-4848-BC31-C445A042EFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C89F20F-D497-4848-BC31-C445A042EFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C89F20F-D497-4848-BC31-C445A042EFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C89F20F-D497-4848-BC31-C445A042EFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3D2E7C-09B8-477A-A893-986E881A4B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3D2E7C-09B8-477A-A893-986E881A4B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3D2E7C-09B8-477A-A893-986E881A4B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3D2E7C-09B8-477A-A893-986E881A4B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

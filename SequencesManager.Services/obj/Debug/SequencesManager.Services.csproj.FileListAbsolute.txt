@@ -1,0 +1,9 @@
+D:\Projects\SequencesManager\SequencesManager.Services\bin\Debug\SequencesManager.Services.dll
+D:\Projects\SequencesManager\SequencesManager.Services\bin\Debug\SequencesManager.Services.pdb
+D:\Projects\SequencesManager\SequencesManager.Services\bin\Debug\SequencesManager.Core.dll
+D:\Projects\SequencesManager\SequencesManager.Services\bin\Debug\SequencesManager.DataAccess.dll
+D:\Projects\SequencesManager\SequencesManager.Services\bin\Debug\SequencesManager.Core.pdb
+D:\Projects\SequencesManager\SequencesManager.Services\bin\Debug\SequencesManager.DataAccess.pdb
+D:\Projects\SequencesManager\SequencesManager.Services\obj\Debug\SequencesManager.Services.csprojResolveAssemblyReference.cache
+D:\Projects\SequencesManager\SequencesManager.Services\obj\Debug\SequencesManager.Services.dll
+D:\Projects\SequencesManager\SequencesManager.Services\obj\Debug\SequencesManager.Services.pdb
