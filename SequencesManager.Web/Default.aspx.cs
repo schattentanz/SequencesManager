@@ -18,9 +18,12 @@ namespace SequencesManager.Web
 
         protected void OnGenerate(object sender, EventArgs e)
         {
-            var task = new PageAsyncTask(new BeginEventHandler(StartSequenceGenerating),
-                new EndEventHandler(EndSequenceGenerating), null, null);
-            RegisterAsyncTask(task);
+            if (Page.IsValid)
+            {
+                var task = new PageAsyncTask(new BeginEventHandler(StartSequenceGenerating),
+                    new EndEventHandler(EndSequenceGenerating), null, null);
+                RegisterAsyncTask(task);
+            }
         }
 
         private void EndSequenceGenerating(IAsyncResult ar)

@@ -20,6 +20,12 @@
                 <asp:TextBox runat="server" ID="ElementsCountField"></asp:TextBox>
                 <asp:CompareValidator runat="server" ControlToValidate="ElementsCountField" Type="Integer" 
                     Operator="DataTypeCheck" ErrorMessage="Value must be an integer." Text="*" />
+                <asp:RegularExpressionValidator runat="server"
+                    ControlToValidate="ElementsCountField" 
+                    ErrorMessage="Enter only numeric characters." Text="*"
+                    ValidationExpression="^[0-9]*$" />
+
+
                 <asp:RequiredFieldValidator runat="server" ErrorMessage="Set sequence elements count, please." Text="*"
                     ControlToValidate="ElementsCountField"></asp:RequiredFieldValidator>
                 <asp:ValidationSummary runat="server"/>
