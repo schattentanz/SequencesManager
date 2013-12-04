@@ -1,2 +1,14 @@
 bin
 obj
+obj
+/SequencesManager.Core.Tests/bin
+/SequencesManager.Core.Tests/obj
+/SequencesManager.Core/obj
+/SequencesManager.DataAccess/bin
+obj
+/SequencesManager.DataAccess.SqlServer/bin
+/SequencesManager.DataAccess.SqlServer/obj
+/SequencesManager.Services/obj
+/SequencesManager.Services/bin
+/SequencesManager.Web/bin
+/SequencesManager.Web/obj

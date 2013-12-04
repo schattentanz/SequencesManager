@@ -1,9 +1,0 @@
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\bin\Debug\SequencesManager.Core.Tests.dll
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\bin\Debug\SequencesManager.Core.Tests.pdb
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\bin\Debug\nunit.framework.dll
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\bin\Debug\SequencesManager.Core.dll
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\bin\Debug\SequencesManager.Core.pdb
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\bin\Debug\nunit.framework.xml
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\obj\Debug\SequencesManager.Core.Tests.csprojResolveAssemblyReference.cache
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\obj\Debug\SequencesManager.Core.Tests.dll
-D:\Projects\SequencesManager\SequencesManager.Core.Tests\obj\Debug\SequencesManager.Core.Tests.pdb
