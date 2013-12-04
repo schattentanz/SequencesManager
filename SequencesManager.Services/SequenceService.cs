@@ -42,7 +42,7 @@ namespace SequencesManager.Services
                 sequenceInfo.MaxElement = cachedSequence.Max();
                 sequenceInfo.Average = cachedSequence.Average();
                 sequenceInfo.SequenceType = sequenceType;
-                _sequenceInfoRepository.AddSequenceInformation(sequenceInfo);
+                _sequenceInfoRepository.AddSequenceInformation(sequenceInfo, cachedSequence);
             }
             catch (OverflowException)
             {

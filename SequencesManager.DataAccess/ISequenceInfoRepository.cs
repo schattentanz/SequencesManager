@@ -10,6 +10,6 @@ namespace SequencesManager.DataAccess
     public interface ISequenceInfoRepository
     {
         IEnumerable<SequenceInfo> GetSequencesInformation();
-        void AddSequenceInformation(SequenceInfo sequenceInformation);
+        void AddSequenceInformation(SequenceInfo sequenceInformation, IEnumerable<long> sequenceElements);
     }
 }
